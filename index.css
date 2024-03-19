@@ -1,0 +1,27 @@
+body {
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titulo-1 {
+    background: aqua;
+    color: blue;
+}
+h6 {
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+
+}
+p{
+    font-weight: bold;
+}
+
+#imagen-2 {
+    border-radius: 60%;
+}
+
+#div-main {
+
+}
